@@ -5,6 +5,7 @@
 *.so
 *.dylib
 lazycurl
+docs
 
 # Test binary, built with `go test -c`
 *.test
